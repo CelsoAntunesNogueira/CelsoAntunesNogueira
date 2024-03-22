@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/celso-antunes-nogueira-06a255160/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<h2> Ferramentas que tive experiências acadêmicas   </h2>
 <div>
   
-           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="70" />
+        
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="70" />
 
