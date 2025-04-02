@@ -1,19 +1,17 @@
-### Olá! me chamo Celso,sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Minha jornada profissional começou como designer gráfico, onde tive a oportunidade de dar vida a conceitos criativos e visões artísticas. No entanto, ao longo do tempo, meu interesse em tecnologia e programação cresceu exponencialmente, levando-me a explorar o vasto mundo do desenvolvimento de software.
+👋 Olá, eu sou o Celso Antunes!
 
+🎯 **Analista de Dados | Automação | SQL | Python**  
+🚀 Em transição para a área de Dados, com experiência em automação de processos e análise de informações.  
+📊 Transformando dados em insights estratégicos.  
+
+---
 <!--
 **CelsoAntunesNogueira/CelsoAntunesNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 **Habilidades**
+🐍 **Python** → Pandas, NumPy, Selenium, Flask  
+📊 **SQL** → MySQL, PostgreSQL  
+📈 **Visualização** → Power BI, Excel 
 
 <a href="https://www.linkedin.com/in/celso-antunes-nogueira-06a255160/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
