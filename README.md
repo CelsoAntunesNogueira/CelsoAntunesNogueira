@@ -1,11 +1,16 @@
-👋 Olá, eu sou o Celso Antunes!
+👋 Sobre mim
+Sou um profissional em transição para a área de Segurança da Informação, com formação em Análise e Desenvolvimento de Sistemas (ADS) e forte base prática em redes, manutenção de computadores, programação e design gráfico.
 
-🎯 **Analista de Dados | Automação | SQL | Python**  
-🚀 Em transição para a área de Dados, com experiência em automação de processos e análise de informações.  
-📊 Transformando dados em insights estratégicos.  
+Atualmente curso um Técnico em Redes de Computadores, e também estou matriculado em Técnico em Informática e uma pós-graduação/MBA em Segurança da Informação. Desenvolvo projetos pessoais voltados para automações, análise de dados e soluções de infraestrutura, além de atuar com manutenção e redes desde 2014.
 
+💻 Tecnologias e Ferramentas
+Linguagens: Python, PHP, Java, JavaScript
 
-**CelsoAntunesNogueira/CelsoAntunesNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Banco de Dados: MySQL
+
+Ferramentas: VS Code, Git, GitHub, Excel, Photoshop, Illustrator
+
+Áreas de interesse: Cibersegurança, redes, automações, backend, infraestrutura, testes
 
 ### 📌 **Habilidades**
 🐍 **Python** → Pandas, NumPy, Selenium, Flask  
