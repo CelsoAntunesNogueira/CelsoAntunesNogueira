@@ -1,4 +1,4 @@
-👋 Sobre mim
+👋
 Sou um profissional em transição para a área de Segurança da Informação, com formação em Análise e Desenvolvimento de Sistemas (ADS) e forte base prática em redes, manutenção de computadores, programação e design gráfico.
 
 Atualmente curso um Técnico em Redes de Computadores, e também estou matriculado em Técnico em Informática e uma pós-graduação/MBA em Segurança da Informação. Desenvolvo projetos pessoais voltados para automações, análise de dados e soluções de infraestrutura, além de atuar com manutenção e redes desde 2014.
