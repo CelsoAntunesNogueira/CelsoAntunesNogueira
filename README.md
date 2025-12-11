@@ -1,44 +1,52 @@
-Olá, eu sou o Celso 👋
+# Olá, eu sou o Celso! 👋
+## Backend Developer | Java • Python • .NET
 
-Desenvolvedor Backend com experiência prática em automações, APIs REST e soluções que reduzem trabalho manual e aumentam eficiência. Meu foco atual é Java + Spring Boot, mas também desenvolvo em Python e C#, unindo minhas bases de dados, automação e lógica para criar sistemas limpos, escaláveis e objetivos.
+Sou um Desenvolvedor Backend focado em criar **soluções que resolvem problemas reais**. Atualmente especializado em **Java com Spring Boot**, mas com sólida experiência prática em **C#** e **Python** para automações, APIs e sistemas administrativos.
 
-O que eu já desenvolvi
+Meu diferencial é unir lógica de programação com visão de negócio: transformo processos manuais e lentos em **sistemas escaláveis e eficientes**.
 
-APIs REST (Java/Spring e C#/.NET)
+---
 
-Sistemas administrativos e PDVs
+### 🛠️ Tecnologias e Ferramentas
 
-Automação de rotinas (Python)
+| Área | Tecnologias |
+| :--- | :--- |
+| **Backend** | Java (Spring Boot), C# (.NET), Python |
+| **Dados & Automação** | Selenium, BeautifulSoup, Pandas, OpenPyXL, XML |
+| **Banco de Dados** | MySQL, PostgreSQL |
+| **Infra & DevOps** | Docker, AWS (S3/EC2), GitHub Actions |
+| **Observabilidade** | ElasticSearch, New Relic |
 
-Scraping de dados com BeautifulSoup e Selenium
+---
 
-Geração de relatórios (Excel, PDF)
+### 🚀 Projetos em Destaque
 
-Conversores, pipelines simples e validação de arquivos (ex: XML da ANS)
+#### 🛒 [PDV & Gestão Comercial](LINK_DO_REPOSITORIO_AQUI)
+**Tech:** `C#` `Sqlite` `.NET` `Clean Architecture`
+Sistema completo de gestão de vendas e estoque.
+- **Impacto:** Centralizou o controle de dados e implementou arquitetura em camadas para facilitar manutenção e escalabilidade.
 
-Scripts que reduzem horas semanais de trabalho manual
+#### ⚡ [Automação de XML / ANS](LINK_DO_REPOSITORIO_AQUI)
+**Tech:** `Python` `Pandas` `Tkinter`
+Ferramenta de automação que converte planilhas Excel em arquivos XML validados para a ANS.
+- **Impacto:** Reduziu um processo manual de horas para **menos de 1 minuto**, eliminando erros de digitação.
 
-Tecnologias e Ferramentas
+#### 🍽️ [API REST - Cardápio Digital](LINK_DO_REPOSITORIO_AQUI)
+**Tech:** `Java` `Spring Boot` `Docker` `AWS`
+API robusta para gerenciamento de itens e pedidos.
+- **Destaque:** Aplicação containerizada com Docker e pronta para deploy em nuvem.
 
-Backend: Java, Spring Boot, C#, .NET, Python
-Automação e Dados: Selenium, BeautifulSoup, Pandas, OpenPyXL
-Cloud/DevOps: AWS (conceitos), GitHub Actions, GitLab CI
-Monitoramento: ElasticSearch, New Relic, Dynatrace
-Banco de Dados: MySQL, PostgreSQL
-Outros: Power BI, Excel, PHP básico
+---
 
-O que me move
+### 💡 O que me move
+Resolver problemas reais com código claro e bem estruturado. **Não me prendo a ferramentas:** se a solução exige aprender algo novo, eu estudo e entrego. Meu objetivo é ver o software facilitando a vida de quem o usa.
 
-Resolver problemas reais com código claro e bem estruturado. Não me prendo a ferramenta: se preciso dominar algo novo, estudo e entrego. Gosto de criar soluções que funcionam no mundo real e que ajudam pessoas e empresas a trabalharem melhor.
+---
 
-Projetos em destaque
+### 📫 Contato
+Se quiser conversar sobre projetos, automações ou oportunidades em backend:
 
-PDV / Comércio Local (C# + SQL + Arquitetura em Camadas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521995911283)
 
-Automação ANS – XML RPS-WEB (Python)
-
-API REST – Cardápio (Java/Spring Boot)
-
-Sistema de Gestão para Igreja (Python)
-
-Se quiser conversar sobre projetos, automações ou backend, me chama: 21 99591-1283.
+**Email:** celsoa81@gmail.com
